@@ -78,11 +78,11 @@ $contacts = $db->all();
         <div class="text-left">
             <form method="post">
                 <div class="form-group">
-                    <label for="name">姓名</label>
+                    <label for="name">姓名hello</label>
                     <input type="text" name="name" class="form-control" id="name" placeholder="姓名">
                 </div>
                 <div class="form-group">
-                    <label for="phone">号码</label>
+                    <label for="phone">号码world</label>
                     <input type="text" name="phone" class="form-control" id="phone" placeholder="号码">
                 </div>
                 <button type="submit" class="btn btn-success">新增</button>
